@@ -9,7 +9,7 @@ linkRegex=re.compile(r'''
 [a-zA-Z0-9_.+]+ #name part
 \.com/ #domain
 [:/a-zA-Z0-9_.+]+
-#####following
+#following
 ''', re.VERBOSE)
 
 url=[
