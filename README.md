@@ -1,2 +1,2 @@
 # email-scraper
-Lists all email addresses found from provided list of links.
+Lists all email addresses found in provided list of links.
