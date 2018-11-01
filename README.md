@@ -1,2 +1,2 @@
 # email-scraper
-Script to fetch all emails from a list of links.
+Lists all email addresses found from provided list of links.
